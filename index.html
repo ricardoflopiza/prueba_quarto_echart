@@ -175,46 +175,47 @@ ECharts
           text: ['High', 'Low'],
           calculable: true
         },
-        series: [
-          {
-            id: 'population',
-            type: 'map',
-            roam: true,
-            map: 'USA',
-            animationDurationUpdate: 1000,
-            universalTransition: true,
-            data: data
-          }
-        ]
-      };
-
-      const barOption = {
-        xAxis: {
-          type: 'value'
-        },
-        yAxis: {
-          type: 'category',
-          axisLabel: {
-            rotate: 30
-          },
-          data: data.map(item => item.name)
-        },
-        animationDurationUpdate: 9000,
-        series: {
-          type: 'bar',
-          id: 'population',
-          data: data.map(item => item.value),
-          universalTransition: true
-        }
-      };
-
-      let currentOption = mapOption;
-      myChart.setOption(mapOption);
-
-      setInterval(() => {
-        currentOption = currentOption === mapOption ? barOption : mapOption;
-        myChart.setOption(currentOption, true);
-      }, 5000);
+series: [
+      {
+        id: 'population',
+        type: 'map',
+        roam: true,
+        map: 'USA',
+        animationDurationUpdate: 1000,
+        universalTransition: true,
+        data: data
+      }
+    ]
+  };
+  const barOption = {
+    xAxis: {
+      type: 'value'
+    },
+    yAxis: {
+      type: 'category',
+      axisLabel: {
+        rotate: 30
+      },
+      data: data.map(function (item) {
+        return item.name;
+      })
+    },
+    animationDurationUpdate: 1000,
+    series: {
+      type: 'bar',
+      id: 'population',
+      data: data.map(function (item) {
+        return item.value;
+      }),
+      universalTransition: true
+    }
+  };
+  let currentOption = mapOption;
+  myChart.setOption(mapOption);
+  setInterval(function () {
+    currentOption = currentOption === mapOption ? barOption : mapOption;
+    myChart.setOption(currentOption, true);
+  }, 2000);
     });
 });
     </script>
