@@ -21,39 +21,42 @@
 
     <div class="container-fluid my-3">
       <!-- Fila 1 (Dos columnas 50-50) -->
-      <div class="row" style="min-height: 500px">
+      <div class="row" style="min-height: 700px">
         <!-- Columna 1 (grafico) -->
         <div class="col-md-6" style="min-height: 100%;">
-            <div id="chart1" class="w-100 h-100">
-            <p>Gráfico #1</p>
-          </div>
+            <div id="chart" class="w-100 h-100">
+                <iframe id="dynamicIframe" src="www/mapa.html" class="w-100 h-100" style="border: none"></iframe>
+            </div>
         </div>
+
         <!-- Columna 2 (selectores + iframe) -->
         <div class="col-md-6 d-flex flex-column" style="min-height: 100%;">
             <!-- Barra de selectores -->
-          <div class="d-flex align-items-center bg-primary text-white p-3">
-            <!-- Selector 1 -->
-            <div class="me-3">
-              <label for="selector1" class="me-1">Nivel de análisis:</label>
-              <select id="selector1" class="form-select form-select-sm" onchange="updateContent()">
-                <option value="nacional">Nacional</option>
-                <option value="regiones">Regiones</option>
-                <option value="cadena_productiva">Cadena Productiva</option>
-              </select>
-            </div>
-            <!-- Selector 2 -->
-            <div>
-              <label for="selector2" class="me-1">Variable de interés:</label>
-              <select id="selector2" class="form-select form-select-sm" onchange="updateContent()">
-                <option value="agrupacion_tecnocreativa">Agrupación tecnocreativa</option>
-                <option value="uso_de_tecnologia">Uso de tecnología</option>
-                <option value="herramientas_diferenciacion">Herramientas de diferenciación</option>
-                <option value="interaccion_otros_sectores">Interacción con otros sectores</option>
-                <option value="tendencias_tecnocreativas">Tendencias tecnocreativas</option>
-                <option value="brechas_drivers">Brechas y drivers</option>
-              </select>
-            </div>
-          </div>
+            <div class="bg-primary text-white p-3 clearfix">
+                <!-- Selector 2: Variable de interés -->
+                <div style="float: left; width: 48%; margin-right: 2%;">
+                  <label for="selector2" style="display: block;">Variable de interés:</label>
+                  <select id="selector2" class="form-select form-select-sm" style="width: 100%;" onchange="updateContent()">
+                    <option value="agrupacion_tecnocreativa">Agrupación tecnocreativa</option>
+                    <option value="uso_de_tecnologia">Uso de tecnología</option>
+                    <option value="herramientas_diferenciacion">Herramientas de diferenciación</option>
+                    <option value="interaccion_otros_sectores">Interacción con otros sectores</option>
+                    <option value="tendencias_tecnocreativas">Tendencias tecnocreativas</option>
+                    <option value="brechas_drivers">Brechas y drivers</option>
+                  </select>
+                </div>
+              
+                <!-- Selector 1: Nivel de análisis -->
+                <div style="float: left; width: 48%;">
+                  <label for="selector1" style="display: block;">Nivel de análisis:</label>
+                  <select id="selector1" class="form-select form-select-sm" style="width: 100%;" onchange="updateContent()">
+                    <option value="nacional">Nacional</option>
+                    <option value="regiones">Regiones</option>
+                    <option value="cadena_productiva">Cadena Productiva</option>
+                  </select>
+                </div>
+              </div>
+              
           <!-- Contenedor que crece para el iframe -->
           <div class="flex-grow-1 bg-white">
             <iframe id="dynamicIframe" src="www/nacional_agrupacion_tecnocreativa.html" class="w-100 h-100" style="border: none"></iframe>
@@ -70,6 +73,29 @@
         </div>
       </div>
     </div>
+
+        <!-- Modal -->
+        <div
+        class="modal fade"
+        id="zoomModal"
+        tabindex="-1"
+        aria-labelledby="zoomModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-dialog-fullscreen">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="zoomModalLabel">Vista ampliada</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <!-- Contenedor del gráfico en el modal -->
+              <div id="modalContent"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
 
     <script src="script.js"></script>
   </body>
