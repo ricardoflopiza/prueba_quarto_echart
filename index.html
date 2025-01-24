@@ -107,7 +107,7 @@
     // Función para cargar datos de un archivo CSV dinámicamente
     async function loadDynamicTable(selectedFile) {
         try {
-            const response = await fetch(`../assets/${selectedFile}`);
+            const response = await fetch(`assets/${selectedFile}`);
             const data = await response.text();
 
             const rows = data.split('\n').filter(row => row.trim() !== '');
