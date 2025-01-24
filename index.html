@@ -1,103 +1,271 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Interactive Dashboard</title>
-    <link rel="stylesheet" href="styles.css" />
-    <!-- ECharts -->
-    <script src="dist/echarts.js"></script>
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-  </head>
-  <body>
-    <header class="p-3">
-      <h1>Interactive Dashboard</h1>
-      <div class="tabs">
-        <div class="tab active" onclick="alert('Pestaña 1 activada')">Pestaña 1</div>
-        <div class="tab" onclick="alert('Pestaña 2 activada')">Pestaña 2</div>
-      </div>
-    </header>
-
-    <div class="container-fluid my-3">
-      <!-- Fila 1 (Dos columnas 50-50) -->
-      <div class="row" style="min-height: 700px">
-        <!-- Columna 1 (grafico) -->
-        <div class="col-md-6" style="min-height: 100%;">
-            <div id="chart" class="w-100 h-100">
-                <iframe id="dynamicIframe" src="www/mapa.html" class="w-100 h-100" style="border: none"></iframe>
-            </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabla y Gráficos Dinámicos</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.5/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+    <style>
+        table {
+            width: 100%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div style="margin-bottom: 20px;">
+        <!-- Selector de Variable -->
+        <div style="float: left; width: 48%; margin-right: 2%;">
+            <label for="selectorTablaDin1">Variable de interés:</label>
+            <select id="selectorTablaDin1" class="form-select form-select-sm" style="width: 100%">
+                <option value="agrupacion_tecnocreativa">Agrupación Tecnocreativa</option>
+                <option value="tecnologias">Uso de Tecnología</option>
+                <option value="herramientas_diferenciacion">Herramientas de Diferenciación</option>
+                <option value="interaccion">Interacción con Otros Sectores</option>
+                <option value="tendencias">Tendencias Tecnocreativas</option>
+                <option value="brechas">Brechas y Drivers</option>
+                <option value="tipo_empresa">Tipo de Empresa</option>
+            </select>
         </div>
 
-        <!-- Columna 2 (selectores + iframe) -->
-        <div class="col-md-6 d-flex flex-column" style="min-height: 100%;">
-            <!-- Barra de selectores -->
-            <div class="bg-primary text-white p-3 clearfix">
-                <!-- Selector 2: Variable de interés -->
-                <div style="float: left; width: 48%; margin-right: 2%;">
-                  <label for="selector2" style="display: block;">Variable de interés:</label>
-                  <select id="selector2" class="form-select form-select-sm" style="width: 100%;" onchange="updateContent()">
-                    <option value="agrupacion_tecnocreativa">Agrupación tecnocreativa</option>
-                    <option value="uso_de_tecnologia">Uso de tecnología</option>
-                    <option value="herramientas_diferenciacion">Herramientas de diferenciación</option>
-                    <option value="interaccion_otros_sectores">Interacción con otros sectores</option>
-                    <option value="tendencias_tecnocreativas">Tendencias tecnocreativas</option>
-                    <option value="brechas_drivers">Brechas y drivers</option>
-                  </select>
-                </div>
-              
-                <!-- Selector 1: Nivel de análisis -->
-                <div style="float: left; width: 48%;">
-                  <label for="selector1" style="display: block;">Nivel de análisis:</label>
-                  <select id="selector1" class="form-select form-select-sm" style="width: 100%;" onchange="updateContent()">
-                    <option value="nacional">Nacional</option>
-                    <option value="regiones">Regiones</option>
-                    <option value="cadena_productiva">Cadena Productiva</option>
-                  </select>
-                </div>
-              </div>
-              
-          <!-- Contenedor que crece para el iframe -->
-          <div class="flex-grow-1 bg-white">
-            <iframe id="dynamicIframe" src="www/nacional_agrupacion_tecnocreativa.html" class="w-100 h-100" style="border: none"></iframe>
-          </div>
+        <!-- Selector de Nivel de Análisis -->
+        <div style="float: left; width: 48%;">
+            <label for="selectorTablaDin2">Nivel de análisis:</label>
+            <select id="selectorTablaDin2" class="form-select form-select-sm" style="width: 100%">
+                <option value="nacional">Nacional</option>
+                <option value="region">Región</option>
+                <option value="cadena_productiva">Cadena Productiva</option>
+                <option value="tipo_empresa">Tipo de Empresa</option>
+            </select>
         </div>
-      </div>
-
-      <!-- Fila 2 (columna completa) -->
-      <div class="row mt-3">
-        <div class="col-12 bg-light border" style="height: 300px">
-          <div id="chart3" class="w-100 h-100">
-            <p>Gráfico #3</p>
-          </div>
-        </div>
-      </div>
     </div>
 
-        <!-- Modal -->
-        <div
-        class="modal fade"
-        id="zoomModal"
-        tabindex="-1"
-        aria-labelledby="zoomModalLabel"
-        aria-hidden="true"
-      >
-        <div class="modal-dialog modal-dialog-fullscreen">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="zoomModalLabel">Vista ampliada</h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-              <!-- Contenedor del gráfico en el modal -->
-              <div id="modalContent"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-  
+    <div style="clear: both; margin-top: 20px;">
+        <!-- Tabla dinámica -->
+        <table id="dynamicTable" class="display">
+            <thead>
+                <tr></tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+        </table>
+    </div>
 
-    <script src="script.js"></script>
-  </body>
+    <div style="margin-top: 30px;">
+        <!-- Contenedor para el gráfico -->
+        <div id="chartContainer" style="width: 100%; height: 500px;"></div>
+    </div>
+</body>
+<script>
+    // Objeto global para almacenar los datos cargados dinámicamente
+    window.tableData = [];
+    let chartInstance = null; // Variable para almacenar la instancia de ECharts
+
+    /**
+     * Función para agrupar datos
+     * @param {Array} data - Datos a procesar
+     * @param {String} variable - Variable para agrupar
+     * @param {String} level - Nivel de agrupación (ej. "nacional", "region")
+     * @returns {Object} - Datos agrupados
+     */
+    function groupData(data, variable, level) {
+        if (level === "nacional") {
+            return data.reduce((acc, row) => {
+                const key = row[variable];
+                if (!key) return acc;
+                if (!acc[key]) acc[key] = { count: 0 };
+                acc[key].count += 1;
+                return acc;
+            }, {});
+        } else {
+            const groupedData = data.reduce((acc, row) => {
+                const levelKey = row[level];
+                const variableKey = row[variable];
+                if (!variableKey || !levelKey) return acc;
+
+                const key = `${levelKey} - ${variableKey}`;
+                if (!acc[key]) acc[key] = { count: 0, level: levelKey };
+                acc[key].count += 1;
+                return acc;
+            }, {});
+
+            const levelTotals = Object.values(groupedData).reduce((acc, { level, count }) => {
+                acc[level] = (acc[level] || 0) + count;
+                return acc;
+            }, {});
+
+            Object.entries(groupedData).forEach(([key, data]) => {
+                groupedData[key].totalForLevel = levelTotals[data.level];
+            });
+
+            return groupedData;
+        }
+    }
+
+    // Función para cargar datos de un archivo CSV dinámicamente
+    async function loadDynamicTable(selectedFile) {
+        try {
+            const response = await fetch(`../assets/${selectedFile}`);
+            const data = await response.text();
+
+            const rows = data.split('\n').filter(row => row.trim() !== '');
+            const headers = rows[0].split(',');
+
+            window.tableData = rows.slice(1).map(row => {
+                const values = row.split(',');
+                return headers.reduce((acc, header, index) => {
+                    acc[header] = values[index];
+                    return acc;
+                }, {});
+            });
+
+            updateTable();
+            generateChart();
+        } catch (error) {
+            console.error('Error al cargar el archivo:', error);
+        }
+    }
+
+    // Función para actualizar la tabla dinámica
+    function updateTable() {
+        const level = document.getElementById('selectorTablaDin2').value;
+        const variable = document.getElementById('selectorTablaDin1').value;
+
+        const groupedData = groupData(window.tableData, variable, level);
+
+        const tableBody = document.getElementById('tableBody');
+        const tableHead = document.querySelector('#dynamicTable thead tr');
+
+        tableBody.innerHTML = '';
+        tableHead.innerHTML = '';
+
+        if (level !== "nacional") {
+            const thLevel = document.createElement('th');
+            thLevel.textContent = level;
+            tableHead.appendChild(thLevel);
+        }
+
+        const thGroup = document.createElement('th');
+        thGroup.textContent = "Agrupación";
+        tableHead.appendChild(thGroup);
+
+        const thCount = document.createElement('th');
+        thCount.textContent = "Cantidad";
+        tableHead.appendChild(thCount);
+
+        const thPercentage = document.createElement('th');
+        thPercentage.textContent = "Porcentaje";
+        tableHead.appendChild(thPercentage);
+
+        Object.entries(groupedData).forEach(([key, { count, level: levelValue, totalForLevel }]) => {
+            const tr = document.createElement('tr');
+
+            if (level !== "nacional") {
+                const tdLevel = document.createElement('td');
+                tdLevel.textContent = levelValue || '';
+                tr.appendChild(tdLevel);
+            }
+
+            const tdKey = document.createElement('td');
+            tdKey.textContent = level === "nacional" ? key : key.split(' - ')[1];
+            tr.appendChild(tdKey);
+
+            const tdCount = document.createElement('td');
+            tdCount.textContent = count;
+            tr.appendChild(tdCount);
+
+            const tdPercentage = document.createElement('td');
+            const total = level === "nacional"
+                ? Object.values(groupedData).reduce((sum, group) => sum + group.count, 0)
+                : totalForLevel;
+            tdPercentage.textContent = ((count / total) * 100).toFixed(2) + '%';
+            tr.appendChild(tdPercentage);
+
+            tableBody.appendChild(tr);
+        });
+    }
+
+    // Función para generar gráficos dinámicos
+    function generateChart() {
+    const level = document.getElementById('selectorTablaDin2').value;
+    const variable = document.getElementById('selectorTablaDin1').value;
+
+    const groupedData = groupData(window.tableData, variable, level);
+
+    if (level === "nacional") {
+        // Lógica para gráfico de pastel (sin cambios)
+        const total = Object.values(groupedData).reduce((sum, { count }) => sum + count, 0);
+        const chartData = Object.entries(groupedData).map(([key, { count }]) => ({
+            name: key,
+            value: ((count / total) * 100).toFixed(2)
+        }));
+
+        const option = {
+            title: { text: 'Distribución Nacional', left: 'center' },
+            tooltip: { trigger: 'item', formatter: '{a} <br/>{b}: {c}%' },
+            legend: { top: 'bottom' },
+            series: [{ type: 'pie', radius: ['30%', '70%'], roseType: 'radius', data: chartData }]
+        };
+
+        renderChart(option);
+    } else {
+        // Lógica para gráfico de barras dodge
+        const categories = Array.from(new Set(Object.values(groupedData).map(group => group.level)));
+        const subCategories = Array.from(new Set(Object.keys(groupedData).map(key => key.split(' - ')[1])));
+
+        const seriesData = subCategories.map(subCat => ({
+            name: subCat,
+            type: 'bar',
+            stack: false, // Sin apilar para barras dodge
+            data: categories.map(cat => {
+                const entry = Object.entries(groupedData).find(([key]) => key === `${cat} - ${subCat}`);
+                return entry ? entry[1].count : 0;
+            })
+        }));
+
+        const option = {
+            title: { text: 'Distribución por Nivel de Análisis y Variable', left: 'center' },
+            tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+            legend: { top: 'bottom' },
+            xAxis: { type: 'category', data: categories, name: level },
+            yAxis: { type: 'value', name: 'Cantidad' },
+            series: seriesData
+        };
+
+        renderChart(option);
+    }
+}
+
+
+    // Función para renderizar gráficos
+    function renderChart(option) {
+        const chartContainer = document.getElementById('chartContainer');
+        if (!chartInstance) chartInstance = echarts.init(chartContainer);
+        chartInstance.setOption(option);
+    }
+
+    // Eventos de los selectores
+    document.getElementById('selectorTablaDin1').addEventListener('change', () => {
+        const selectedVariable = document.getElementById('selectorTablaDin1').value;
+        const variableToFileMap = {
+            "agrupacion_tecnocreativa": "df_select.csv",
+            "tecnologias": "d_tecnologias.csv",
+            "herramientas_diferenciacion": "d_diferenciacion.csv",
+            "interaccion": "d_interaccion_sect_no_creativos.csv",
+            "tendencias": "d_tendencias_tecnocreativas.csv",
+            "brechas": "d_brechas.csv",
+            "tipo_empresa": "df_select.csv"
+        };
+
+        const selectedFile = variableToFileMap[selectedVariable];
+        if (selectedFile) loadDynamicTable(selectedFile);
+    });
+
+    document.getElementById('selectorTablaDin2').addEventListener('change', () => {
+        updateTable();
+        generateChart();
+    });
+</script>
 </html>
-

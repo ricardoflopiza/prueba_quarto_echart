@@ -1,0 +1,158 @@
+region,tipo_empresa,cadena_productiva,agrupacion_tecnocreativa,genero,asociatividad,vinculos_educativos,tamano_empresa_num_trab,rango_ventas,exportaciones,exportaciones_porc_ingreso,internacionalizacion,mercados_intern
+Arica,Empresa,Contenidos creativos,Contenido para redes sociales,Mujer,No,Sí,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",Ninguno
+Arica,Empresa,Servicios creativos,Música,Hombre,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,Sí,3,"Sí, pero aún no se han concretado operaciones internacionales",
+Arica,Empresa,Experiencias creativas,Nuevos medios,Hombre,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,11,"No, pero está en las prioridades actuales",
+Antofagasta,Profesional independiente,Servicios creativos,Editorial (medios digitales),Hombre,,,1-5,,,,,
+Antofagasta,Empresa,Experiencias creativas,Música,Hombre,No,Sí,Más de 50,Entre 50.000 y 100.000 USD,No,1,No y no está en los planes actuales,
+Atacama,Empresa,Bienes creativos,Servicios creativos,Hombre,No,No,11-50,Entre 50.000 y 100.000 USD,Sí,5,"Sí, pero aún no se han concretado operaciones internacionales",
+Valparaíso,Empresa,Bienes creativos,Computación o programación creativa,Mujer,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Valparaíso,Empresa,Servicios creativos,Computación o programación creativa,Hombre,No,No,1-5,Entre 50.000 y 100.000 USD,Sí,15,"Sí, en uno",Estados Unidos
+Valparaíso,Empresa,Contenidos creativos,Computación o programación creativa,Hombre,Sí (especificar cuál),No,11-50,Más de 100.000 USD,Sí,22,"Sí, en más de uno",Perú y España
+Valparaíso,Empresa,Servicios creativos,Computación o programación creativa,Mujer,Sí (especificar cuál),Sí,Más de 50,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Valparaíso,Empresa,Servicios creativos,Computación o programación creativa,Hombre,No,No,1-5,Menos de 10.000 USD,No,3,"No, pero está en las prioridades actuales",
+Valparaíso,Profesional independiente,Experiencias creativas,Cultura y entretenimiento,Mujer,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Valparaíso,Empresa,Experiencias creativas,Cultura y entretenimiento,Mujer,Sí (especificar cuál),Sí,6-10,Entre 10.000 y 50.000 USD,Sí,10,"Sí, en más de uno",
+Valparaíso,Empresa,Servicios creativos,Data science,Hombre,Sí (especificar cuál),Sí,6-10,Entre 10.000 y 50.000 USD,Sí,10,"No, pero está en las prioridades actuales",
+Valparaíso,Profesional independiente,Contenidos creativos,Música,Hombre,No,No,1-5,Menos de 10.000 USD,No,1,No y no está en los planes actuales,
+Valparaíso,Profesional independiente,Bienes creativos,Música,Hombre,Sí (especificar cuál),No,0,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Valparaíso,Empresa,Servicios creativos,Música,Hombre,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Valparaíso,Empresa,Contenidos creativos,Ninguna de las anteriores,Hombre,No,No,11-50,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Valparaíso,Empresa,Contenidos creativos,Nuevos medios,Mujer,Sí (especificar cuál),Sí,6-10,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Valparaíso,Empresa,Servicios creativos,Nuevos medios,Mujer,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Valparaíso,Profesional independiente,Contenidos creativos,Nuevos medios,Mujer,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,Sí,17,"Sí, pero aún no se han concretado operaciones internacionales",
+Valparaíso,Empresa,Bienes creativos,Servicios creativos,Hombre,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,80,"Sí, en uno",USA
+Valparaíso,Empresa,Servicios creativos,Servicios creativos,Mujer,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Valparaíso,Profesional independiente,Servicios creativos,Servicios creativos,Hombre,No,No,0,Entre 50.000 y 100.000 USD,Sí,90,"Sí, en uno",Canada
+Valparaíso,Empresa,Bienes creativos,Servicios creativos,Hombre,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,4,"No, pero está en las prioridades actuales",Usa
+Valparaíso,Empresa,Bienes creativos,Servicios creativos,Otro (especifique) - gay,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,49,"Sí, en más de uno",Festivales : Cannes Inmersive/ Dok Leipzig / IDFA / FIDBA
+Valparaíso,Profesional independiente,Bienes creativos,Servicios creativos,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,4,No y no está en los planes actuales,
+Valparaíso,Empresa,Servicios creativos,Servicios creativos,Hombre,Sí (especificar cuál),Sí,11-50,Más de 100.000 USD,Sí,10,No y no está en los planes actuales,
+Valparaíso,Empresa,Servicios creativos,Servicios creativos,Mujer,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,Sí,10,"No, pero está en las prioridades actuales",
+Valparaíso,Profesional independiente,,,Hombre,,,,,,,,
+Valparaíso,Empresa,,,Hombre,,,,,,,,
+Valparaíso,Empresa,,,Mujer,,,,,,,,
+Valparaíso,Empresa,,,Mujer,,,,,,,,
+Valparaíso,Empresa,,,Mujer,,,,,,,,
+RM,Profesional independiente,Servicios creativos,Computación o programación creativa,Hombre,,,1-5,,,,,
+RM,Empresa,Servicios creativos,Computación o programación creativa,Hombre,No,No,1-5,Menos de 10.000 USD,Sí,25,"Sí, en uno",Mexico
+RM,Profesional independiente,Contenidos creativos,Computación o programación creativa,Hombre,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Servicios creativos,Computación o programación creativa,Mujer,No,No,1-5,Entre 10.000 y 50.000 USD,Sí,100,"Sí, pero aún no se han concretado operaciones internacionales",
+RM,Empresa,Servicios creativos,Computación o programación creativa,Hombre,No,No,0,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Servicios creativos,Computación o programación creativa,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Profesional independiente,Contenidos creativos,Computación o programación creativa,Hombre,No,Sí,1-5,Menos de 10.000 USD,Sí,6,No y no está en los planes actuales,
+RM,Empresa,Contenidos creativos,Computación o programación creativa,Hombre,No,Sí,6-10,Más de 100.000 USD,Sí,4,"Sí, en más de uno",
+RM,Empresa,Bienes creativos,Computación o programación creativa,Hombre,No,Sí,6-10,Menos de 10.000 USD,Sí,25,"Sí, pero aún no se han concretado operaciones internacionales",
+RM,Empresa,Servicios creativos,Computación o programación creativa,Hombre,Sí (especificar cuál),Sí,11-50,Más de 100.000 USD,Sí,15,"Sí, en uno",USA
+RM,Empresa,Servicios creativos,Computación o programación creativa,Hombre,Sí (especificar cuál),Sí,1-5,Más de 100.000 USD,Sí,60,"Sí, en más de uno","USA, UE"
+RM,Profesional independiente,Servicios creativos,Contenido para redes sociales,Mujer,,,1-5,,,,,
+RM,Empresa,Experiencias creativas,Contenido para redes sociales,Mujer,,,Más de 50,,,,,
+RM,Profesional independiente,Bienes creativos,Contenido para redes sociales,Hombre,No,No,1-5,Menos de 10.000 USD,No,19,"Sí, en uno",
+RM,Empresa,Contenidos creativos,Contenido para redes sociales,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Contenidos creativos,Contenido para redes sociales,Hombre,No,No,1-5,Menos de 10.000 USD,Sí,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Contenidos creativos,Contenido para redes sociales,Hombre,Sí (especificar cuál),Sí,11-50,Más de 100.000 USD,Sí,5,"Sí, en uno",
+RM,Empresa,Servicios creativos,Contenido para redes sociales,Mujer,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,No,0,"Sí, pero aún no se han concretado operaciones internacionales",
+RM,Empresa,Servicios creativos,Cultura y entretenimiento,Mujer,,,1-5,Entre 10.000 y 50.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Contenidos creativos,Cultura y entretenimiento,Hombre,,,,,,,,
+RM,Empresa,Contenidos creativos,Cultura y entretenimiento,Hombre,,,1-5,,,,,
+RM,Empresa,Contenidos creativos,Cultura y entretenimiento,Hombre,No,No,1-5,Entre 10.000 y 50.000 USD,Sí,5,"Sí, en más de uno","Colombia, Argentina, Perú y México"
+RM,Empresa,Contenidos creativos,Cultura y entretenimiento,Mujer,Sí (especificar cuál),Sí,6-10,Entre 50.000 y 100.000 USD,Sí,20,"Sí, en más de uno","USA, Brasil, México"
+RM,Empresa,Bienes creativos,Cultura y entretenimiento,Hombre,No,Sí,11-50,Más de 100.000 USD,Sí,10,"Sí, en más de uno",Canada y EEUU
+RM,Profesional independiente,Contenidos creativos,Cultura y entretenimiento,Mujer,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Bienes creativos,Cultura y entretenimiento,Hombre,No,Sí,1-5,Entre 10.000 y 50.000 USD,Sí,51,"No, pero está en las prioridades actuales","Ventana Sur, Mitcom , Mitcom Jr."
+RM,Empresa,Experiencias creativas,Cultura y entretenimiento,Hombre,No,Sí,11-50,Entre 10.000 y 50.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Experiencias creativas,Cultura y entretenimiento,Hombre,No,No,6-10,Entre 10.000 y 50.000 USD,Sí,5,"Sí, en uno","Colombia, España"
+RM,Empresa,Contenidos creativos,Cultura y entretenimiento,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Contenidos creativos,Cultura y entretenimiento,Hombre,No,No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Servicios creativos,Editorial (medios digitales),Hombre,No,No,1-5,Menos de 10.000 USD,Sí,100,No y no está en los planes actuales,
+RM,Profesional independiente,Bienes creativos,Editorial (medios digitales),Hombre,No,No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Contenidos creativos,Fintech,Hombre,Sí (especificar cuál),Sí,6-10,Más de 100.000 USD,Sí,80,"Sí, en más de uno","Mexico, Colombia, Peru"
+RM,Empresa,Contenidos creativos,Juegos interactivos,Hombre,,,1-5,,,,,
+RM,Empresa,Contenidos creativos,Juegos interactivos,Mujer,No,No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Contenidos creativos,Juegos interactivos,Hombre,No,Sí,1-5,Más de 100.000 USD,Sí,10,"Sí, en más de uno","Mexico, Colombia"
+RM,Empresa,Contenidos creativos,Juegos interactivos,Hombre,Sí (especificar cuál),No,6-10,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Profesional independiente,Experiencias creativas,Juegos interactivos,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Bienes creativos,Ninguna de las anteriores,Mujer,,,,,,,,
+RM,Empresa,Servicios creativos,Ninguna de las anteriores,Hombre,Sí (especificar cuál),Sí,Más de 50,Más de 100.000 USD,No,0,No y no está en los planes actuales,
+RM,Profesional independiente,Contenidos creativos,Ninguna de las anteriores,Hombre,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Profesional independiente,Bienes creativos,Ninguna de las anteriores,Hombre,No,Sí,1-5,Menos de 10.000 USD,Sí,15,No y no está en los planes actuales,
+RM,Empresa,Bienes creativos,Nuevos medios,Mujer,,,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Servicios creativos,Nuevos medios,Hombre,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,Sí,25,"Sí, en uno",Nueva York
+RM,Profesional independiente,Experiencias creativas,Nuevos medios,Mujer,No,Sí,0,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Contenidos creativos,Nuevos medios,Hombre,No,Sí,1-5,Entre 10.000 y 50.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Experiencias creativas,Nuevos medios,Hombre,No,No,1-5,Más de 100.000 USD,Sí,10,"No, pero está en las prioridades actuales",
+RM,Profesional independiente,Experiencias creativas,Nuevos medios,Hombre,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,Sí,10,"No, pero está en las prioridades actuales",
+RM,Profesional independiente,Experiencias creativas,Nuevos medios,Hombre,No,No,1-5,Menos de 10.000 USD,Sí,50,"Sí, en uno",USA
+RM,Profesional independiente,Servicios creativos,Nuevos medios,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Experiencias creativas,Nuevos medios,Hombre,No,No,11-50,Más de 100.000 USD,Sí,1,"Sí, en más de uno",Latinoamérica y Europa
+RM,Profesional independiente,Experiencias creativas,Nuevos medios,Mujer,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,0,"Sí, en uno","Mexico, Canadá"
+RM,Empresa,Bienes creativos,Nuevos medios,Mujer,No,Sí,1-5,Entre 50.000 y 100.000 USD,No,30,"No, pero está en las prioridades actuales",
+RM,Empresa,Experiencias creativas,Nuevos medios,Hombre,No,No,1-5,Entre 50.000 y 100.000 USD,Sí,5,"No, pero está en las prioridades actuales",
+RM,Empresa,Servicios creativos,Nuevos medios,Hombre,Sí (especificar cuál),Sí,1-5,Más de 100.000 USD,Sí,10,"Sí, en más de uno","bolivia, perú, colombia, ecuador, costa rica"
+RM,Empresa,Experiencias creativas,Nuevos medios,Mujer,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,Sí,75,"Sí, en más de uno","Participamos de los más importantes mercados para el XR narrativo: Venice Production Bridge, VR Days, New Images XR Market, Electric South, Cinemart XR, VR Days Brasil, VR Fest Mexico, etc."
+RM,Profesional independiente,Bienes creativos,Robótica,Mujer,,,,,,,,
+RM,Empresa,Experiencias creativas,Robótica,Hombre,No,No,6-10,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Bienes creativos,Robótica,Hombre,No,Sí,1-5,Menos de 10.000 USD,Sí,75,"No, pero está en las prioridades actuales",
+RM,Empresa,Servicios creativos,Servicios creativos,Hombre,No,No,1-5,Más de 100.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Servicios creativos,Servicios creativos,Hombre,No,Sí,6-10,Entre 50.000 y 100.000 USD,No,0,"Sí, en uno",Colombia
+RM,Empresa,Experiencias creativas,Servicios creativos,Mujer,No,Sí,1-5,Menos de 10.000 USD,Sí,49,"Sí, en más de uno",Latam
+RM,Empresa,Servicios creativos,Servicios creativos,Mujer,Sí (especificar cuál),Sí,1-5,Entre 50.000 y 100.000 USD,No,0,"Sí, en uno",perú
+RM,Empresa,Servicios creativos,Servicios creativos,Mujer,Sí (especificar cuál),Sí,11-50,Entre 10.000 y 50.000 USD,Sí,23,"Sí, en más de uno","España, Republica Checa, Estados Unidos y Mexico"
+RM,Empresa,Contenidos creativos,Servicios creativos,Hombre,No,Sí,1-5,Entre 10.000 y 50.000 USD,No,0,No y no está en los planes actuales,
+RM,Profesional independiente,Experiencias creativas,Servicios creativos,Hombre,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,Sí,50,"No, pero está en las prioridades actuales",
+RM,Empresa,Servicios creativos,Servicios creativos,Hombre,No,No,1-5,Entre 10.000 y 50.000 USD,Sí,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Experiencias creativas,Servicios creativos,Mujer,No,Sí,11-50,Menos de 10.000 USD,No,0,"Sí, en más de uno","India, Suiza, Jordania, Colombia, Europa"
+RM,Empresa,Contenidos creativos,Servicios creativos,Hombre,No,Sí,11-50,Más de 100.000 USD,No,0,No y no está en los planes actuales,
+RM,Profesional independiente,Contenidos creativos,Servicios creativos,Hombre,No,Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+RM,Empresa,Bienes creativos,Servicios creativos,Mujer,No,No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Servicios creativos,Servicios creativos,Hombre,Sí (especificar cuál),Sí,6-10,Más de 100.000 USD,No,0,"No, pero está en las prioridades actuales",
+RM,Empresa,Contenidos creativos,Servicios creativos,Hombre,No,Sí,1-5,Menos de 10.000 USD,Sí,10,"No, pero está en las prioridades actuales",
+RM,Profesional independiente,Contenidos creativos,Wearables,Hombre,No,Sí,11-50,Entre 50.000 y 100.000 USD,Sí,25,No y no está en los planes actuales,"Alemania, Estados Unidos, Serbia y Nueva Zelandia"
+RM,Empresa,,,Mujer,,,,,,,,
+RM,Empresa,,,Hombre,,,,,,,,
+RM,Empresa,,,Hombre,,,,,,,,
+RM,Empresa,,,Hombre,,,,,,,,
+RM,Empresa,,,Mujer,,,,,,,,
+RM,Empresa,,,Hombre,,,,,,,,
+RM,Empresa,,,Mujer,,,,,,,,
+RM,Profesional independiente,,,Hombre,,,,,,,,
+O'Higgins,Empresa,Bienes creativos,Juegos interactivos,Mujer,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,Sí,76,No y no está en los planes actuales,
+O'Higgins,Profesional independiente,Servicios creativos,Ninguna de las anteriores,Mujer,,,1-5,,,,,
+O'Higgins,Empresa,,,Hombre,,,,,,,,
+Maule,Empresa,Contenidos creativos,Cultura y entretenimiento,Hombre,No,No,1-5,Menos de 10.000 USD,Sí,6,"Sí, en más de uno","Ventana Sur, Pixlatl, Quirino"
+Maule,Empresa,Experiencias creativas,Música,Hombre,No,Sí,6-10,Menos de 10.000 USD,Sí,5,"No, pero está en las prioridades actuales",
+Biobío,Empresa,Bienes creativos,Computación o programación creativa,Mujer,,,,,,,,
+Biobío,Empresa,Contenidos creativos,Computación o programación creativa,Hombre,No,Sí,1-5,Entre 10.000 y 50.000 USD,No,0,"No, pero está en las prioridades actuales",
+Biobío,Profesional independiente,Experiencias creativas,Cultura y entretenimiento,Otro (especifique) - prefiero no responder,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,Sí,1,"No, pero está en las prioridades actuales",
+Biobío,Empresa,Servicios creativos,Juegos interactivos,Hombre,No,Sí,6-10,Entre 50.000 y 100.000 USD,Sí,10,"Sí, en uno",USA
+Biobío,Profesional independiente,Contenidos creativos,Servicios creativos,Hombre,,,0,,,,,
+Biobío,Empresa,Bienes creativos,Servicios creativos,Hombre,No,No,1-5,Entre 10.000 y 50.000 USD,No,0,"No, pero está en las prioridades actuales",
+Biobío,Empresa,Servicios creativos,Servicios creativos,Mujer,No,No,1-5,Entre 10.000 y 50.000 USD,No,0,No y no está en los planes actuales,
+Biobío,Empresa,Bienes creativos,Servicios creativos,Hombre,No,No,1-5,Entre 50.000 y 100.000 USD,No,0,No y no está en los planes actuales,
+Biobío,Empresa,Bienes creativos,Servicios creativos,Mujer,No,Sí,11-50,Más de 100.000 USD,Sí,20,"Sí, en más de uno",
+Araucanía,Profesional independiente,Contenidos creativos,Contenido para redes sociales,Hombre,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Araucanía,Empresa,Experiencias creativas,Cultura y entretenimiento,Hombre,Sí (especificar cuál),Sí,6-10,Entre 10.000 y 50.000 USD,No,0,"Sí, pero aún no se han concretado operaciones internacionales",
+Araucanía,Profesional independiente,Contenidos creativos,Cultura y entretenimiento,Hombre,No,Sí,1-5,Menos de 10.000 USD,Sí,1,"No, pero está en las prioridades actuales",
+Araucanía,Profesional independiente,Contenidos creativos,Cultura y entretenimiento,Mujer,No,No,0,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Araucanía,Empresa,Bienes creativos,Juegos interactivos,Mujer,No,Sí,6-10,Menos de 10.000 USD,No,2,No y no está en los planes actuales,
+Araucanía,Profesional independiente,Bienes creativos,Ninguna de las anteriores,Hombre,No,No,1-5,Menos de 10.000 USD,Sí,10,"No, pero está en las prioridades actuales",
+Araucanía,Profesional independiente,Servicios creativos,Servicios creativos,Mujer,Sí (especificar cuál),Sí,0,Menos de 10.000 USD,No,0,"Sí, pero aún no se han concretado operaciones internacionales",
+Araucanía,Profesional independiente,Experiencias creativas,Servicios creativos,Mujer,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Araucanía,Empresa,,,Hombre,,,,,,,,
+Los Ríos,Empresa,Experiencias creativas,Cultura y entretenimiento,Hombre,Sí (especificar cuál),No,1-5,Entre 50.000 y 100.000 USD,No,0,"No, pero está en las prioridades actuales",
+Los Ríos,Empresa,Bienes creativos,Ninguna de las anteriores,Mujer,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Los Ríos,Empresa,Bienes creativos,Ninguna de las anteriores,Mujer,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Los Ríos,Empresa,,,Hombre,,,,,,,,
+Los Lagos,Empresa,Experiencias creativas,Servicios creativos,Hombre,Sí (especificar cuál),No,1-5,Entre 10.000 y 50.000 USD,No,0,"No, pero está en las prioridades actuales",
+Aysén,Empresa,Bienes creativos,Computación o programación creativa,Hombre,No,No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Aysén,Empresa,Bienes creativos,Cultura y entretenimiento,Hombre,Sí (especificar cuál),No,1-5,Entre 10.000 y 50.000 USD,Sí,0,"No, pero está en las prioridades actuales",
+Aysén,Empresa,Servicios creativos,Nuevos medios,Hombre,Sí (especificar cuál),Sí,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales","En ninguno, aún."
+Aysén,Empresa,Bienes creativos,Servicios creativos,Mujer,No,No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Magallanes,Empresa,Contenidos creativos,Computación o programación creativa,Hombre,Sí (especificar cuál),No,1-5,Menos de 10.000 USD,No,0,No y no está en los planes actuales,
+Magallanes,Empresa,Servicios creativos,Fintech,Hombre,No,No,1-5,Entre 10.000 y 50.000 USD,No,0,"Sí, pero aún no se han concretado operaciones internacionales",
+Magallanes,Empresa,Bienes creativos,Ninguna de las anteriores,Mujer,No,Sí,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Magallanes,Empresa,Bienes creativos,Nuevos medios,Hombre,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,15,"Sí, en uno",Alemania
+Extranjero,Profesional independiente,Servicios creativos,Computación o programación creativa,Hombre,No,No,1-5,Menos de 10.000 USD,No,0,"No, pero está en las prioridades actuales",
+Extranjero,Profesional independiente,Experiencias creativas,Cultura y entretenimiento,Hombre,No,No,1-5,Entre 50.000 y 100.000 USD,Sí,36,"Sí, pero aún no se han concretado operaciones internacionales",Europa del Este
+Extranjero,Profesional independiente,Contenidos creativos,Editorial (medios digitales),Hombre,Sí (especificar cuál),Sí,1-5,Entre 10.000 y 50.000 USD,Sí,50,"Sí, en más de uno",10+ en 2024
+Extranjero,Empresa,,,Hombre,,,,,,,,
+Extranjero,Empresa,,,Mujer,,,,,,,,
