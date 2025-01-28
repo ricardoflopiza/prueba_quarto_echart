@@ -34,7 +34,7 @@ const variableToFileMap = {
       return dataCache[fileName];
     }
     try {
-      const response = await fetch(`../assets/${fileName}`);
+      const response = await fetch(`assets/${fileName}`);
       const csvText = await response.text();
       
       const rows = csvText.split('\n').filter(row => row.trim() !== '');
