@@ -1,409 +1,252 @@
-v362_id,region,cadena_productiva,financiamiento
-30,Arica,Contenidos creativos,Agro-Tech
-30,Arica,Contenidos creativos,Empresa
-30,Arica,Contenidos creativos,Ingresos propios del flujo del negocio
-72,Arica,Servicios creativos,Agro-Tech
-72,Arica,Servicios creativos,Empresa
-72,Arica,Servicios creativos,Aportes de capital de los socios o dueños
-72,Arica,Servicios creativos,Asociaciones con otros negocios
-97,Arica,Experiencias creativas,Empresa
-97,Arica,Experiencias creativas,Aportes de capital de los socios o dueños
-97,Arica,Experiencias creativas,Fondos públicos
-97,Arica,Experiencias creativas,Ingresos propios del flujo del negocio
-54,Antofagasta,Servicios creativos,Profesional independiente
-73,Antofagasta,Experiencias creativas,Empresa
-73,Antofagasta,Experiencias creativas,Ingresos propios del flujo del negocio
-138,Atacama,Bienes creativos,Empresa
-138,Atacama,Bienes creativos,Asociaciones con otros negocios
-138,Atacama,Bienes creativos,Fondos públicos
-138,Atacama,Bienes creativos,Ingresos propios del flujo del negocio
-8,Valparaíso,Bienes creativos,Empresa
-8,Valparaíso,Bienes creativos,Aportes de capital de los socios o dueños
-8,Valparaíso,Bienes creativos,Instituciones bancarias
-11,Valparaíso,Servicios creativos,Agro-Tech
-11,Valparaíso,Servicios creativos,Empresa
-11,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-12,Valparaíso,Contenidos creativos,Empresa
-12,Valparaíso,Contenidos creativos,Fondos públicos
-12,Valparaíso,Contenidos creativos,Ingresos propios del flujo del negocio
-12,Valparaíso,Contenidos creativos,Instituciones bancarias
-20,Valparaíso,Servicios creativos,Empresa
-20,Valparaíso,Servicios creativos,Aportes de capital de los socios o dueños
-21,Valparaíso,Servicios creativos,Empresa
-21,Valparaíso,Servicios creativos,Aportes de capital de los socios o dueños
-32,Valparaíso,Experiencias creativas,Profesional independiente
-32,Valparaíso,Experiencias creativas,Aportes de capital de los socios o dueños
-32,Valparaíso,Experiencias creativas,Fondos públicos
-52,Valparaíso,Experiencias creativas,Empresa
-52,Valparaíso,Experiencias creativas,Fondos públicos
-52,Valparaíso,Experiencias creativas,Ingresos propios del flujo del negocio
-53,Valparaíso,Servicios creativos,Agro-Tech
-53,Valparaíso,Servicios creativos,Empresa
-53,Valparaíso,Servicios creativos,Aportes de capital de los socios o dueños
-53,Valparaíso,Servicios creativos,Fondos públicos
-53,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-68,Valparaíso,Contenidos creativos,Profesional independiente
-68,Valparaíso,Contenidos creativos,Asociaciones con otros negocios
-69,Valparaíso,Bienes creativos,Profesional independiente
-69,Valparaíso,Bienes creativos,yo mismo
-71,Valparaíso,Servicios creativos,Empresa
-71,Valparaíso,Servicios creativos,Fondos públicos
-71,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-74,Valparaíso,Contenidos creativos,Empresa
-74,Valparaíso,Contenidos creativos,Fondos públicos
-84,Valparaíso,Contenidos creativos,Empresa
-84,Valparaíso,Contenidos creativos,Ingresos propios del flujo del negocio
-92,Valparaíso,Servicios creativos,Empresa
-92,Valparaíso,Servicios creativos,Aportes de capital de los socios o dueños
-92,Valparaíso,Servicios creativos,Fondos públicos
-92,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-103,Valparaíso,Contenidos creativos,Profesional independiente
-103,Valparaíso,Contenidos creativos,Fondos públicos
-113,Valparaíso,Bienes creativos,Empresa
-113,Valparaíso,Bienes creativos,Ingresos propios del flujo del negocio
-114,Valparaíso,Servicios creativos,Empresa
-114,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-117,Valparaíso,Servicios creativos,Profesional independiente
-117,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-120,Valparaíso,Bienes creativos,Empresa
-120,Valparaíso,Bienes creativos,Fondos públicos
-120,Valparaíso,Bienes creativos,Ingresos propios del flujo del negocio
-126,Valparaíso,Bienes creativos,Empresa
-126,Valparaíso,Bienes creativos,Fondos públicos
-129,Valparaíso,Bienes creativos,Profesional independiente
-129,Valparaíso,Bienes creativos,Aportes de capital de los socios o dueños
-131,Valparaíso,Servicios creativos,Empresa
-131,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-135,Valparaíso,Servicios creativos,Empresa
-135,Valparaíso,Servicios creativos,Aportes de capital de los socios o dueños
-135,Valparaíso,Servicios creativos,Fondos públicos
-135,Valparaíso,Servicios creativos,Ingresos propios del flujo del negocio
-141,Valparaíso,,Profesional independiente
-150,Valparaíso,,Empresa
-151,Valparaíso,,Empresa
-152,Valparaíso,,Empresa
-157,Valparaíso,,Empresa
-2,RM,Servicios creativos,Profesional independiente
-3,RM,Servicios creativos,Empresa
-3,RM,Servicios creativos,Aportes de capital de los socios o dueños
-3,RM,Servicios creativos,Ingresos propios del flujo del negocio
-5,RM,Contenidos creativos,Profesional independiente
-5,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-7,RM,Servicios creativos,Empresa
-7,RM,Servicios creativos,Aportes de capital de los socios o dueños
-7,RM,Servicios creativos,Ingresos propios del flujo del negocio
-13,RM,Servicios creativos,Empresa
-13,RM,Servicios creativos,Fondos públicos
-13,RM,Servicios creativos,Ingresos propios del flujo del negocio
-14,RM,Servicios creativos,Empresa
-14,RM,Servicios creativos,Fondos públicos
-14,RM,Servicios creativos,Ingresos propios del flujo del negocio
-15,RM,Contenidos creativos,Profesional independiente
-15,RM,Contenidos creativos,Fondos públicos
-15,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-16,RM,Contenidos creativos,Empresa
-16,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-16,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-16,RM,Contenidos creativos,Instituciones bancarias
-17,RM,Bienes creativos,Empresa
-17,RM,Bienes creativos,Aportes de capital de los socios o dueños
-18,RM,Servicios creativos,Empresa
-18,RM,Servicios creativos,Ingresos propios del flujo del negocio
-19,RM,Servicios creativos,Empresa
-19,RM,Servicios creativos,Aportes de capital de los socios o dueños
-19,RM,Servicios creativos,Ingresos propios del flujo del negocio
-19,RM,Servicios creativos,Instituciones bancarias
-22,RM,Servicios creativos,Profesional independiente
-23,RM,Experiencias creativas,Empresa
-24,RM,Bienes creativos,Profesional independiente
-24,RM,Bienes creativos,Ingresos propios del flujo del negocio
-25,RM,Contenidos creativos,Agro-Tech
-25,RM,Contenidos creativos,Empresa
-25,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-25,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-26,RM,Contenidos creativos,Empresa
-26,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-28,RM,Contenidos creativos,Empresa
-28,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-28,RM,Contenidos creativos,Instituciones bancarias
-28,RM,Contenidos creativos,factoring
-29,RM,Servicios creativos,Empresa
-29,RM,Servicios creativos,Aportes de capital de los socios o dueños
-29,RM,Servicios creativos,Fondos públicos
-29,RM,Servicios creativos,Ingresos propios del flujo del negocio
-33,RM,Servicios creativos,Empresa
-33,RM,Servicios creativos,Aportes de capital de los socios o dueños
-33,RM,Servicios creativos,Ingresos propios del flujo del negocio
-34,RM,Contenidos creativos,Empresa
-35,RM,Contenidos creativos,Empresa
-36,RM,Contenidos creativos,Empresa
-36,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-36,RM,Contenidos creativos,Fondos públicos
-36,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-38,RM,Contenidos creativos,Empresa
-38,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-38,RM,Contenidos creativos,Fondos públicos
-38,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-42,RM,Bienes creativos,Empresa
-42,RM,Bienes creativos,Fondos públicos
-42,RM,Bienes creativos,Ingresos propios del flujo del negocio
-42,RM,Bienes creativos,Instituciones bancarias
-45,RM,Contenidos creativos,Profesional independiente
-45,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-45,RM,Contenidos creativos,Fondos públicos
-46,RM,Bienes creativos,Empresa
-46,RM,Bienes creativos,Aportes de capital de los socios o dueños
-46,RM,Bienes creativos,Fondos públicos
-46,RM,Bienes creativos,Ingresos propios del flujo del negocio
-47,RM,Experiencias creativas,Empresa
-47,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-48,RM,Experiencias creativas,Empresa
-48,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-48,RM,Experiencias creativas,Fondos públicos
-48,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-49,RM,Contenidos creativos,Empresa
-49,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-49,RM,Contenidos creativos,Fondos públicos
-49,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-50,RM,Contenidos creativos,Empresa
-50,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-55,RM,Servicios creativos,Empresa
-55,RM,Servicios creativos,Aportes de capital de los socios o dueños
-55,RM,Servicios creativos,Fondos públicos
-56,RM,Bienes creativos,Profesional independiente
-56,RM,Bienes creativos,Ingresos propios del flujo del negocio
-56,RM,Bienes creativos,Instituciones bancarias
-58,RM,Contenidos creativos,Agro-Tech
-58,RM,Contenidos creativos,Empresa
-58,RM,Contenidos creativos,Asociaciones con otros negocios
-58,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-58,RM,Contenidos creativos,Instituciones bancarias
-60,RM,Contenidos creativos,Empresa
-62,RM,Contenidos creativos,Empresa
-62,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-62,RM,Contenidos creativos,Fondos públicos
-62,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-63,RM,Contenidos creativos,Empresa
-63,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-63,RM,Contenidos creativos,Asociaciones con otros negocios
-63,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-64,RM,Contenidos creativos,Empresa
-64,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-64,RM,Contenidos creativos,Fondos públicos
-65,RM,Experiencias creativas,Profesional independiente
-65,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-76,RM,Bienes creativos,Empresa
-78,RM,Servicios creativos,Empresa
-78,RM,Servicios creativos,Ingresos propios del flujo del negocio
-80,RM,Contenidos creativos,Profesional independiente
-80,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-83,RM,Bienes creativos,Profesional independiente
-83,RM,Bienes creativos,Aportes de capital de los socios o dueños
-85,RM,Bienes creativos,Empresa
-85,RM,Bienes creativos,Aportes de capital de los socios o dueños
-86,RM,Servicios creativos,Empresa
-86,RM,Servicios creativos,Aportes de capital de los socios o dueños
-86,RM,Servicios creativos,Asociaciones con otros negocios
-87,RM,Experiencias creativas,Profesional independiente
-87,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-88,RM,Contenidos creativos,Empresa
-88,RM,Contenidos creativos,Crowdfunding
-88,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-89,RM,Experiencias creativas,Empresa
-89,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-90,RM,Experiencias creativas,Profesional independiente
-90,RM,Experiencias creativas,Crowdfunding
-90,RM,Experiencias creativas,Fondos públicos
-93,RM,Experiencias creativas,Profesional independiente
-93,RM,Experiencias creativas,Asociaciones con otros negocios
-94,RM,Servicios creativos,Profesional independiente
-94,RM,Servicios creativos,Aportes de capital de los socios o dueños
-96,RM,Experiencias creativas,Agro-Tech
-96,RM,Experiencias creativas,Empresa
-96,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-96,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-98,RM,Experiencias creativas,Profesional independiente
-98,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-98,RM,Experiencias creativas,Fondos públicos
-99,RM,Bienes creativos,Empresa
-99,RM,Bienes creativos,Fondos públicos
-99,RM,Bienes creativos,Ingresos propios del flujo del negocio
-100,RM,Experiencias creativas,Empresa
-100,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-101,RM,Servicios creativos,Empresa
-101,RM,Servicios creativos,Ingresos propios del flujo del negocio
-102,RM,Experiencias creativas,Empresa
-102,RM,Experiencias creativas,Asociaciones con otros negocios
-102,RM,Experiencias creativas,Fondos públicos
-102,RM,Experiencias creativas,Co-producciones internacionales y fondos privados internacionales
-104,RM,Bienes creativos,Profesional independiente
-105,RM,Experiencias creativas,Empresa
-105,RM,Experiencias creativas,Asociaciones con otros negocios
-105,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-106,RM,Bienes creativos,Empresa
-106,RM,Bienes creativos,Aportes de capital de los socios o dueños
-107,RM,Servicios creativos,Empresa
-107,RM,Servicios creativos,Aportes de capital de los socios o dueños
-109,RM,Servicios creativos,Empresa
-109,RM,Servicios creativos,Fondos públicos
-109,RM,Servicios creativos,Instituciones bancarias
-110,RM,Experiencias creativas,Empresa
-110,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-110,RM,Experiencias creativas,Ingresos propios del flujo del negocio
-110,RM,Experiencias creativas,Monedas digitales
-112,RM,Servicios creativos,Empresa
-112,RM,Servicios creativos,Ingresos propios del flujo del negocio
-119,RM,Servicios creativos,Agro-Tech
-119,RM,Servicios creativos,Empresa
-119,RM,Servicios creativos,Aportes de capital de los socios o dueños
-122,RM,Contenidos creativos,Empresa
-122,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-122,RM,Contenidos creativos,Instituciones bancarias
-124,RM,Experiencias creativas,Profesional independiente
-124,RM,Experiencias creativas,Aportes de capital de los socios o dueños
-124,RM,Experiencias creativas,Asociaciones con otros negocios
-124,RM,Experiencias creativas,Monedas digitales
-125,RM,Servicios creativos,Empresa
-125,RM,Servicios creativos,Aportes de capital de los socios o dueños
-127,RM,Experiencias creativas,Empresa
-127,RM,Experiencias creativas,Asociaciones con otros negocios
-127,RM,Experiencias creativas,Fondos públicos
-127,RM,Experiencias creativas,Aporte de empresas (privados) a través de la ley de donaciones culturales
-128,RM,Contenidos creativos,Empresa
-128,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-128,RM,Contenidos creativos,Capital de trabajo creado en 20 años
-128,RM,Contenidos creativos,Instituciones bancarias
-130,RM,Contenidos creativos,Profesional independiente
-130,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-130,RM,Contenidos creativos,Instituciones bancarias
-132,RM,Bienes creativos,Empresa
-132,RM,Bienes creativos,Aportes de capital de los socios o dueños
-132,RM,Bienes creativos,Ingresos propios del flujo del negocio
-133,RM,Servicios creativos,Empresa
-133,RM,Servicios creativos,Fondos públicos
-133,RM,Servicios creativos,Ingresos propios del flujo del negocio
-133,RM,Servicios creativos,Instituciones bancarias
-136,RM,Contenidos creativos,Empresa
-136,RM,Contenidos creativos,Aportes de capital de los socios o dueños
-136,RM,Contenidos creativos,Fondos públicos
-136,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-139,RM,Contenidos creativos,Profesional independiente
-139,RM,Contenidos creativos,Fondos públicos
-139,RM,Contenidos creativos,Ingresos propios del flujo del negocio
-139,RM,Contenidos creativos,Fondos internacionales
-140,RM,,Empresa
-142,RM,,Empresa
-143,RM,,Empresa
-144,RM,,Empresa
-147,RM,,Empresa
-149,RM,,Empresa
-153,RM,,Empresa
-154,RM,,Profesional independiente
-67,O'Higgins,Bienes creativos,Empresa
-67,O'Higgins,Bienes creativos,Aportes de capital de los socios o dueños
-67,O'Higgins,Bienes creativos,Inversionistas
-77,O'Higgins,Servicios creativos,Profesional independiente
-148,O'Higgins,,Empresa
-43,Maule,Contenidos creativos,Empresa
-43,Maule,Contenidos creativos,Aportes de capital de los socios o dueños
-43,Maule,Contenidos creativos,Fondos públicos
-43,Maule,Contenidos creativos,Ingresos propios del flujo del negocio
-70,Maule,Experiencias creativas,Empresa
-70,Maule,Experiencias creativas,Aportes de capital de los socios o dueños
-70,Maule,Experiencias creativas,Fondos públicos
-70,Maule,Experiencias creativas,Ingresos propios del flujo del negocio
-1,Biobío,Bienes creativos,Empresa
-6,Biobío,Contenidos creativos,Agro-Tech
-6,Biobío,Contenidos creativos,Empresa
-6,Biobío,Contenidos creativos,Ingresos propios del flujo del negocio
-41,Biobío,Experiencias creativas,Profesional independiente
-41,Biobío,Experiencias creativas,Asociaciones con otros negocios
-41,Biobío,Experiencias creativas,Fondos públicos
-41,Biobío,Experiencias creativas,Ingresos propios del flujo del negocio
-61,Biobío,Servicios creativos,Empresa
-61,Biobío,Servicios creativos,Aportes de capital de los socios o dueños
-61,Biobío,Servicios creativos,Fondos públicos
-61,Biobío,Servicios creativos,Ingresos propios del flujo del negocio
-108,Biobío,Contenidos creativos,Profesional independiente
-111,Biobío,Bienes creativos,Empresa
-111,Biobío,Bienes creativos,Ingresos propios del flujo del negocio
-115,Biobío,Servicios creativos,Agro-Tech
-115,Biobío,Servicios creativos,Empresa
-115,Biobío,Servicios creativos,Aportes de capital de los socios o dueños
-115,Biobío,Servicios creativos,Fondos públicos
-115,Biobío,Servicios creativos,Ingresos propios del flujo del negocio
-118,Biobío,Bienes creativos,Agro-Tech
-118,Biobío,Bienes creativos,Empresa
-118,Biobío,Bienes creativos,Ingresos propios del flujo del negocio
-137,Biobío,Bienes creativos,Empresa
-137,Biobío,Bienes creativos,Aportes de capital de los socios o dueños
-137,Biobío,Bienes creativos,Ingresos propios del flujo del negocio
-27,Araucanía,Contenidos creativos,Profesional independiente
-27,Araucanía,Contenidos creativos,Fondos públicos
-27,Araucanía,Contenidos creativos,Ingresos propios del flujo del negocio
-37,Araucanía,Experiencias creativas,Empresa
-37,Araucanía,Experiencias creativas,Asociaciones con otros negocios
-37,Araucanía,Experiencias creativas,Fondos públicos
-37,Araucanía,Experiencias creativas,Ingresos propios del flujo del negocio
-40,Araucanía,Contenidos creativos,Profesional independiente
-40,Araucanía,Contenidos creativos,Ingresos propios del flujo del negocio
-44,Araucanía,Contenidos creativos,Profesional independiente
-44,Araucanía,Contenidos creativos,Aportes de capital de los socios o dueños
-66,Araucanía,Bienes creativos,Empresa
-66,Araucanía,Bienes creativos,Fondos públicos
-66,Araucanía,Bienes creativos,Educación
-81,Araucanía,Bienes creativos,Profesional independiente
-81,Araucanía,Bienes creativos,Ingresos propios del flujo del negocio
-116,Araucanía,Servicios creativos,Profesional independiente
-116,Araucanía,Servicios creativos,Ingresos propios del flujo del negocio
-121,Araucanía,Experiencias creativas,Profesional independiente
-121,Araucanía,Experiencias creativas,Aportes de capital de los socios o dueños
-156,Araucanía,,Empresa
-39,Los Ríos,Experiencias creativas,Empresa
-39,Los Ríos,Experiencias creativas,Ingresos propios del flujo del negocio
-75,Los Ríos,Bienes creativos,Empresa
-75,Los Ríos,Bienes creativos,Aportes de capital de los socios o dueños
-75,Los Ríos,Bienes creativos,Fondos públicos
-75,Los Ríos,Bienes creativos,Instituciones bancarias
-82,Los Ríos,Bienes creativos,Empresa
-82,Los Ríos,Bienes creativos,Aportes de capital de los socios o dueños
-82,Los Ríos,Bienes creativos,Fondos públicos
-82,Los Ríos,Bienes creativos,Instituciones bancarias
-146,Los Ríos,,Empresa
-134,Los Lagos,Experiencias creativas,Empresa
-134,Los Lagos,Experiencias creativas,Aportes de capital de los socios o dueños
-4,Aysén,Bienes creativos,Empresa
-4,Aysén,Bienes creativos,Aportes de capital de los socios o dueños
-51,Aysén,Bienes creativos,Agro-Tech
-51,Aysén,Bienes creativos,Empresa
-51,Aysén,Bienes creativos,Aportes de capital de los socios o dueños
-51,Aysén,Bienes creativos,Fondos públicos
-51,Aysén,Bienes creativos,Instituciones bancarias
-95,Aysén,Servicios creativos,Empresa
-95,Aysén,Servicios creativos,Fondos públicos
-123,Aysén,Bienes creativos,Empresa
-123,Aysén,Bienes creativos,Fondos públicos
-123,Aysén,Bienes creativos,Ingresos propios del flujo del negocio
-123,Aysén,Bienes creativos,Instituciones bancarias
-10,Magallanes,Contenidos creativos,Empresa
-10,Magallanes,Contenidos creativos,Aportes de capital de los socios o dueños
-10,Magallanes,Contenidos creativos,Ingresos propios del flujo del negocio
-59,Magallanes,Servicios creativos,Empresa
-59,Magallanes,Servicios creativos,Ingresos propios del flujo del negocio
-79,Magallanes,Bienes creativos,Empresa
-79,Magallanes,Bienes creativos,Fondos públicos
-79,Magallanes,Bienes creativos,Ingresos propios del flujo del negocio
-79,Magallanes,Bienes creativos,Instituciones bancarias
-91,Magallanes,Bienes creativos,Empresa
-91,Magallanes,Bienes creativos,Aportes de capital de los socios o dueños
-91,Magallanes,Bienes creativos,Fondos públicos
-91,Magallanes,Bienes creativos,Ingresos propios del flujo del negocio
-9,Extranjero,Servicios creativos,Profesional independiente
-9,Extranjero,Servicios creativos,Asociaciones con otros negocios
-31,Extranjero,Experiencias creativas,Profesional independiente
-31,Extranjero,Experiencias creativas,Aportes de capital de los socios o dueños
-31,Extranjero,Experiencias creativas,Fondos públicos
-57,Extranjero,Contenidos creativos,Profesional independiente
-57,Extranjero,Contenidos creativos,Asociaciones con otros negocios
-145,Extranjero,,Empresa
-155,Extranjero,,Empresa
+v362_id,region,cadena_productiva,tipo_empresa,financiamiento
+30,Arica,Contenidos creativos,Empresa,Agro-Tech
+30,Arica,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+72,Arica,Servicios creativos,Empresa,Agro-Tech
+72,Arica,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+72,Arica,Servicios creativos,Empresa,Asociaciones con otros negocios
+97,Arica,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+97,Arica,Experiencias creativas,Empresa,Fondos públicos
+97,Arica,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+73,Antofagasta,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+138,Atacama,Bienes creativos,Empresa,Asociaciones con otros negocios
+138,Atacama,Bienes creativos,Empresa,Fondos públicos
+138,Atacama,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+8,Valparaíso,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+8,Valparaíso,Bienes creativos,Empresa,Instituciones bancarias
+11,Valparaíso,Servicios creativos,Empresa,Agro-Tech
+11,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+12,Valparaíso,Contenidos creativos,Empresa,Fondos públicos
+12,Valparaíso,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+12,Valparaíso,Contenidos creativos,Empresa,Instituciones bancarias
+20,Valparaíso,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+21,Valparaíso,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+32,Valparaíso,Experiencias creativas,Profesional independiente,Aportes de capital de los socios o dueños
+32,Valparaíso,Experiencias creativas,Profesional independiente,Fondos públicos
+52,Valparaíso,Experiencias creativas,Empresa,Fondos públicos
+52,Valparaíso,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+53,Valparaíso,Servicios creativos,Empresa,Agro-Tech
+53,Valparaíso,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+53,Valparaíso,Servicios creativos,Empresa,Fondos públicos
+53,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+68,Valparaíso,Contenidos creativos,Profesional independiente,Asociaciones con otros negocios
+69,Valparaíso,Bienes creativos,Profesional independiente,yo mismo
+71,Valparaíso,Servicios creativos,Empresa,Fondos públicos
+71,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+74,Valparaíso,Contenidos creativos,Empresa,Fondos públicos
+84,Valparaíso,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+92,Valparaíso,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+92,Valparaíso,Servicios creativos,Empresa,Fondos públicos
+92,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+103,Valparaíso,Contenidos creativos,Profesional independiente,Fondos públicos
+113,Valparaíso,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+114,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+117,Valparaíso,Servicios creativos,Profesional independiente,Ingresos propios del flujo del negocio
+120,Valparaíso,Bienes creativos,Empresa,Fondos públicos
+120,Valparaíso,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+126,Valparaíso,Bienes creativos,Empresa,Fondos públicos
+129,Valparaíso,Bienes creativos,Profesional independiente,Aportes de capital de los socios o dueños
+131,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+135,Valparaíso,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+135,Valparaíso,Servicios creativos,Empresa,Fondos públicos
+135,Valparaíso,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+3,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+3,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+5,RM,Contenidos creativos,Profesional independiente,Ingresos propios del flujo del negocio
+7,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+7,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+13,RM,Servicios creativos,Empresa,Fondos públicos
+13,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+14,RM,Servicios creativos,Empresa,Fondos públicos
+14,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+15,RM,Contenidos creativos,Profesional independiente,Fondos públicos
+15,RM,Contenidos creativos,Profesional independiente,Ingresos propios del flujo del negocio
+16,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+16,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+16,RM,Contenidos creativos,Empresa,Instituciones bancarias
+17,RM,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+18,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+19,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+19,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+19,RM,Servicios creativos,Empresa,Instituciones bancarias
+24,RM,Bienes creativos,Profesional independiente,Ingresos propios del flujo del negocio
+25,RM,Contenidos creativos,Empresa,Agro-Tech
+25,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+25,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+26,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+28,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+28,RM,Contenidos creativos,Empresa,Instituciones bancarias
+28,RM,Contenidos creativos,Empresa,factoring
+29,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+29,RM,Servicios creativos,Empresa,Fondos públicos
+29,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+33,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+33,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+36,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+36,RM,Contenidos creativos,Empresa,Fondos públicos
+36,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+38,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+38,RM,Contenidos creativos,Empresa,Fondos públicos
+38,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+42,RM,Bienes creativos,Empresa,Fondos públicos
+42,RM,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+42,RM,Bienes creativos,Empresa,Instituciones bancarias
+45,RM,Contenidos creativos,Profesional independiente,Aportes de capital de los socios o dueños
+45,RM,Contenidos creativos,Profesional independiente,Fondos públicos
+46,RM,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+46,RM,Bienes creativos,Empresa,Fondos públicos
+46,RM,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+47,RM,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+48,RM,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+48,RM,Experiencias creativas,Empresa,Fondos públicos
+48,RM,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+49,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+49,RM,Contenidos creativos,Empresa,Fondos públicos
+49,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+50,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+55,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+55,RM,Servicios creativos,Empresa,Fondos públicos
+56,RM,Bienes creativos,Profesional independiente,Ingresos propios del flujo del negocio
+56,RM,Bienes creativos,Profesional independiente,Instituciones bancarias
+58,RM,Contenidos creativos,Empresa,Agro-Tech
+58,RM,Contenidos creativos,Empresa,Asociaciones con otros negocios
+58,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+58,RM,Contenidos creativos,Empresa,Instituciones bancarias
+62,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+62,RM,Contenidos creativos,Empresa,Fondos públicos
+62,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+63,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+63,RM,Contenidos creativos,Empresa,Asociaciones con otros negocios
+63,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+64,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+64,RM,Contenidos creativos,Empresa,Fondos públicos
+65,RM,Experiencias creativas,Profesional independiente,Aportes de capital de los socios o dueños
+78,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+80,RM,Contenidos creativos,Profesional independiente,Ingresos propios del flujo del negocio
+83,RM,Bienes creativos,Profesional independiente,Aportes de capital de los socios o dueños
+85,RM,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+86,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+86,RM,Servicios creativos,Empresa,Asociaciones con otros negocios
+87,RM,Experiencias creativas,Profesional independiente,Ingresos propios del flujo del negocio
+88,RM,Contenidos creativos,Empresa,Crowdfunding
+88,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+89,RM,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+90,RM,Experiencias creativas,Profesional independiente,Crowdfunding
+90,RM,Experiencias creativas,Profesional independiente,Fondos públicos
+93,RM,Experiencias creativas,Profesional independiente,Asociaciones con otros negocios
+94,RM,Servicios creativos,Profesional independiente,Aportes de capital de los socios o dueños
+96,RM,Experiencias creativas,Empresa,Agro-Tech
+96,RM,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+96,RM,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+98,RM,Experiencias creativas,Profesional independiente,Aportes de capital de los socios o dueños
+98,RM,Experiencias creativas,Profesional independiente,Fondos públicos
+99,RM,Bienes creativos,Empresa,Fondos públicos
+99,RM,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+100,RM,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+101,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+102,RM,Experiencias creativas,Empresa,Asociaciones con otros negocios
+102,RM,Experiencias creativas,Empresa,Fondos públicos
+102,RM,Experiencias creativas,Empresa,Co-producciones internacionales y fondos privados internacionales
+105,RM,Experiencias creativas,Empresa,Asociaciones con otros negocios
+105,RM,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+106,RM,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+107,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+109,RM,Servicios creativos,Empresa,Fondos públicos
+109,RM,Servicios creativos,Empresa,Instituciones bancarias
+110,RM,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+110,RM,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+110,RM,Experiencias creativas,Empresa,Monedas digitales
+112,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+119,RM,Servicios creativos,Empresa,Agro-Tech
+119,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+122,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+122,RM,Contenidos creativos,Empresa,Instituciones bancarias
+124,RM,Experiencias creativas,Profesional independiente,Aportes de capital de los socios o dueños
+124,RM,Experiencias creativas,Profesional independiente,Asociaciones con otros negocios
+124,RM,Experiencias creativas,Profesional independiente,Monedas digitales
+125,RM,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+127,RM,Experiencias creativas,Empresa,Asociaciones con otros negocios
+127,RM,Experiencias creativas,Empresa,Fondos públicos
+127,RM,Experiencias creativas,Empresa,Aporte de empresas (privados) a través de la ley de donaciones culturales
+128,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+128,RM,Contenidos creativos,Empresa,Capital de trabajo creado en 20 años
+128,RM,Contenidos creativos,Empresa,Instituciones bancarias
+130,RM,Contenidos creativos,Profesional independiente,Aportes de capital de los socios o dueños
+130,RM,Contenidos creativos,Profesional independiente,Instituciones bancarias
+132,RM,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+132,RM,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+133,RM,Servicios creativos,Empresa,Fondos públicos
+133,RM,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+133,RM,Servicios creativos,Empresa,Instituciones bancarias
+136,RM,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+136,RM,Contenidos creativos,Empresa,Fondos públicos
+136,RM,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+139,RM,Contenidos creativos,Profesional independiente,Fondos públicos
+139,RM,Contenidos creativos,Profesional independiente,Ingresos propios del flujo del negocio
+139,RM,Contenidos creativos,Profesional independiente,Fondos internacionales
+67,O'Higgins,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+67,O'Higgins,Bienes creativos,Empresa,Inversionistas
+43,Maule,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+43,Maule,Contenidos creativos,Empresa,Fondos públicos
+43,Maule,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+70,Maule,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+70,Maule,Experiencias creativas,Empresa,Fondos públicos
+70,Maule,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+6,Biobío,Contenidos creativos,Empresa,Agro-Tech
+6,Biobío,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+41,Biobío,Experiencias creativas,Profesional independiente,Asociaciones con otros negocios
+41,Biobío,Experiencias creativas,Profesional independiente,Fondos públicos
+41,Biobío,Experiencias creativas,Profesional independiente,Ingresos propios del flujo del negocio
+61,Biobío,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+61,Biobío,Servicios creativos,Empresa,Fondos públicos
+61,Biobío,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+111,Biobío,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+115,Biobío,Servicios creativos,Empresa,Agro-Tech
+115,Biobío,Servicios creativos,Empresa,Aportes de capital de los socios o dueños
+115,Biobío,Servicios creativos,Empresa,Fondos públicos
+115,Biobío,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+118,Biobío,Bienes creativos,Empresa,Agro-Tech
+118,Biobío,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+137,Biobío,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+137,Biobío,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+27,Araucanía,Contenidos creativos,Profesional independiente,Fondos públicos
+27,Araucanía,Contenidos creativos,Profesional independiente,Ingresos propios del flujo del negocio
+37,Araucanía,Experiencias creativas,Empresa,Asociaciones con otros negocios
+37,Araucanía,Experiencias creativas,Empresa,Fondos públicos
+37,Araucanía,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+40,Araucanía,Contenidos creativos,Profesional independiente,Ingresos propios del flujo del negocio
+44,Araucanía,Contenidos creativos,Profesional independiente,Aportes de capital de los socios o dueños
+66,Araucanía,Bienes creativos,Empresa,Fondos públicos
+66,Araucanía,Bienes creativos,Empresa,Educación
+81,Araucanía,Bienes creativos,Profesional independiente,Ingresos propios del flujo del negocio
+116,Araucanía,Servicios creativos,Profesional independiente,Ingresos propios del flujo del negocio
+121,Araucanía,Experiencias creativas,Profesional independiente,Aportes de capital de los socios o dueños
+39,Los Ríos,Experiencias creativas,Empresa,Ingresos propios del flujo del negocio
+75,Los Ríos,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+75,Los Ríos,Bienes creativos,Empresa,Fondos públicos
+75,Los Ríos,Bienes creativos,Empresa,Instituciones bancarias
+82,Los Ríos,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+82,Los Ríos,Bienes creativos,Empresa,Fondos públicos
+82,Los Ríos,Bienes creativos,Empresa,Instituciones bancarias
+134,Los Lagos,Experiencias creativas,Empresa,Aportes de capital de los socios o dueños
+4,Aysén,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+51,Aysén,Bienes creativos,Empresa,Agro-Tech
+51,Aysén,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+51,Aysén,Bienes creativos,Empresa,Fondos públicos
+51,Aysén,Bienes creativos,Empresa,Instituciones bancarias
+95,Aysén,Servicios creativos,Empresa,Fondos públicos
+123,Aysén,Bienes creativos,Empresa,Fondos públicos
+123,Aysén,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+123,Aysén,Bienes creativos,Empresa,Instituciones bancarias
+10,Magallanes,Contenidos creativos,Empresa,Aportes de capital de los socios o dueños
+10,Magallanes,Contenidos creativos,Empresa,Ingresos propios del flujo del negocio
+59,Magallanes,Servicios creativos,Empresa,Ingresos propios del flujo del negocio
+79,Magallanes,Bienes creativos,Empresa,Fondos públicos
+79,Magallanes,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+79,Magallanes,Bienes creativos,Empresa,Instituciones bancarias
+91,Magallanes,Bienes creativos,Empresa,Aportes de capital de los socios o dueños
+91,Magallanes,Bienes creativos,Empresa,Fondos públicos
+91,Magallanes,Bienes creativos,Empresa,Ingresos propios del flujo del negocio
+9,Extranjero,Servicios creativos,Profesional independiente,Asociaciones con otros negocios
+31,Extranjero,Experiencias creativas,Profesional independiente,Aportes de capital de los socios o dueños
+31,Extranjero,Experiencias creativas,Profesional independiente,Fondos públicos
+57,Extranjero,Contenidos creativos,Profesional independiente,Asociaciones con otros negocios
